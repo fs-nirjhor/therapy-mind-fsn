@@ -1,1 +1,1 @@
-# Live Demo :  [Netlify](https://therapy-mind-fsn.netlify.app/) 
+# Live Demo :  [Netlify](https://therapy-mind-fsn.netlify.app) or [GitHub](https://fs-nirjhor.github.io/therapy-mind-fsn)
