@@ -1,0 +1,12 @@
+
+#bannar {
+  height: 400px ;
+  background-image: url(./images/bannar.jpeg);
+  background-size: cover;
+}
+
+.ring-img {
+  height: 250px;
+  width: 250px;
+}
+
